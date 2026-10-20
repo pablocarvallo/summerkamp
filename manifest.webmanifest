@@ -1,0 +1,34 @@
+{
+  "name": "Mi Summer Kamp",
+  "short_name": "Summer Kamp",
+  "description": "Juego de fans para armar tu propio Summer Kamp: equipos de influencers, pruebas con minijuegos y una fiesta final con el equipo campeón.",
+  "lang": "es",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E2F6F2",
+  "theme_color": "#E2F6F2",
+  "categories": ["games", "kids"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
